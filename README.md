@@ -1,34 +1,36 @@
 # VisuWeek
 
-Widget Android qui regroupe les RDV Google Agenda, les tâches Google Tasks et les listes de courses sur l'écran d'accueil.
+[Français](README.fr.md)
 
-## Fonctions
+An Android home-screen widget that brings together Google Calendar events, Google Tasks and shopping lists.
 
-- Voir les rendez-vous de la semaine et le prochain RDV.
-- Cocher les tâches directement dans le widget, avec synchronisation Google Tasks.
-- Voir les tâches de la semaine et celles en retard.
-- Afficher les listes de tâches et de courses, et les replier selon ses besoins.
-- Ajouter rapidement une tâche ou un RDV.
-- Utiliser le thème clair ou sombre selon les réglages du téléphone.
+## Features
 
-## Pour qui ?
+- View this week's events and your next event.
+- Check off tasks directly in the widget, with Google Tasks sync.
+- See this week's tasks and overdue tasks.
+- View task lists and shopping lists, and collapse them as needed.
+- Quickly add a task or an event.
+- Use a light or dark theme based on your phone's settings.
 
-Les utilisateurs de Google Agenda et Google Tasks sur Android.
+## Who is it for?
 
-## Statut
+Android users who use Google Calendar and Google Tasks.
 
-Bêta en préparation - les infos d'installation arrivent.
+## Status
 
-Aucun APK ni code source n'est publié pour le moment.
+The beta is being prepared. Installation details are coming.
 
-## Aperçus
+No APK or source code has been published yet.
 
-### Thème sombre
+## Previews
 
-![Aperçu de VisuWeek en thème sombre](images/visuweek-theme-sombre.png)
+### Dark theme
 
-### Thème clair
+![VisuWeek preview in dark theme](images/visuweek-theme-sombre.png)
 
-![Aperçu de VisuWeek en thème clair](images/visuweek-theme-clair.png)
+### Light theme
 
-Aperçus reconstitués avec des données fictives, pas des captures d'une application exécutée. La bêta présentée est prévue sans Gmail.
+![VisuWeek preview in light theme](images/visuweek-theme-clair.png)
+
+These previews are mockups using fictional data, not screenshots of a running app. The planned beta will not include Gmail.
